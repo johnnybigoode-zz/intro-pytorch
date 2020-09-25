@@ -17,3 +17,5 @@ O notebook depende das seguintes bibliotecas:
     `$ python gera_dataset.py`
     
  - Executar o notebook `Intro_PyTorch.py`
+ 
+ https://youtu.be/60RblCuebXc
